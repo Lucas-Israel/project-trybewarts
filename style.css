@@ -25,4 +25,14 @@ header {
 
 #evaluation-form {
   width: 675px;
+  display: flex;
+  flex-direction: column;
+}
+
+#main {
+  display: flex;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
 }
