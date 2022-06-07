@@ -14,3 +14,15 @@ header {
 .email , .senha , .submit {
   margin: 3% 2%;
 }
+
+#trybewarts-header-title {
+  align-self: center;
+}
+
+#evaluation-form , #main {
+  display: flex;
+}
+
+#evaluation-form {
+  width: 675px;
+}
