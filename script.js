@@ -3,7 +3,7 @@ const btnAgree = document.querySelector('#agreement');
 const btnSub2 = document.querySelector('#submit-btn');
 const textArea = document.querySelector('#textarea');
 const caracteres = document.getElementById('counter');
-const form = document.querySelector('#evaluation-form');
+// const form = document.querySelector('#evaluation-form');
 
 btnSub.addEventListener('click', () => {
   const email = document.querySelector('.email').value;
